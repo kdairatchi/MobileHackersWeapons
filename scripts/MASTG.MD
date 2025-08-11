@@ -1,0 +1,138 @@
+# OWASP MASTG Testing Tools
+
+This document lists tools relevant to mobile application security testing, as found on the OWASP Mobile Application Security Testing Guide (MASTG).
+
+## Generic Tools
+- Frida
+- MobSF
+- Objection
+- Ghidra
+- Visual Studio Code (vscode)
+
+## Android Tools
+- pidcat
+- MobSF for Android
+- Apkleaks
+- radare2 for Android
+- Blutter
+- Proguard
+- Scrcpy
+- ProxyDroid
+- Android NDK
+- jadx
+- nm - Android
+- gplaycli
+- APKiD
+- House
+- Apktool
+- Frida for Android
+- adb
+- aapt2
+- apkx
+- jdb
+- FlowDroid
+- uber-apk-signer
+- JustTrustMe
+- Android SDK
+- blint
+- Magisk
+- RootCloak Plus
+- SSLUnpinning
+- JNITrace
+- APKLab
+- Android Studio
+- Angr
+- Termux
+- Android-SSL-TrustKiller
+- objection for Android
+- frida-multiple-unpinning
+- apksigner
+- Xposed
+- drozer
+- Busybox
+- Bytecode Viewer
+- Corellium
+- disable-flutter-tls-verification
+- LIEF
+- RMS Runtime Mobile Security
+- hermes-dec
+- Frida CodeShare
+- dependency-track
+- semgrep
+- r2frida
+- iaito
+- reFlutter
+- cdxgen
+- dependency-check
+- Fridump
+- rabin2
+
+## iOS Tools
+- Frida for iOS
+- otool
+- Grapefruit
+- AppSync Unified
+- libimobiledevice suite
+- class-dump-z
+- Keychain-Dumper
+- Frida-cycript
+- PlistBuddy
+- Cydia
+- class-dump-dyld
+- simctl
+- ios-app-signer
+- Plutil
+- Usbmuxd
+- iOSbackup
+- BinaryCookieReader
+- codesign
+- iproxy
+- Frida-ios-dump
+- objection for iOS
+- ios-deploy
+- MobSF for iOS
+- MachoOView
+- Cycript
+- gdb
+- radare2 for iOS
+- xcrun
+- plistlib
+- GlobalWebInspect
+- Xcode
+- c++filt
+- Sileo
+- SSL Kill Switch 3
+- ElleKit
+- ipainstaller
+- dsdump
+- ipsw
+- objdump - iOS
+- Choicy
+- Xcode Command Line Tools
+- ldid
+- optool
+- class-dump
+- IOSSecuritySuite
+- lldb
+- SwiftShield
+- Filza
+- swift-demangle
+- Sideloadly
+- nm - iOS
+- security
+- fastlane
+
+## Network Tools
+- tcpdump
+- badssl
+- Android tcpdump
+- ZAP
+- mitmproxy
+- Burp Suite
+- bettercap
+- HTTP Toolkit
+- Nope-Proxy
+- MITM Relay
+- Wireshark
+
+
